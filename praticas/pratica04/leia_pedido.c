@@ -3,7 +3,9 @@
 int main() {
 
   char produto[21];
-  int Qtd[3];
+  int Qtd;
+  float valor;
+  
   
 
   return 0;
